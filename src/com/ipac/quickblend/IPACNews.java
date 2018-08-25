@@ -9,7 +9,7 @@ import org.jsoup.select.Elements;
 
 public class IPACNews
 {
-    private static Entry[] entries;
+    private static Entry[] entries = new Entry[0];
     
     public static void init()
     {
@@ -48,6 +48,10 @@ public class IPACNews
                 }
             }
         }
+    }
+    public static Entry[] getNews()
+    {
+        return entries;
     }
     
     public static final class Entry
