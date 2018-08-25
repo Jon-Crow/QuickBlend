@@ -1,0 +1,15 @@
+---10/24/17---
+-Blend result window now appears next to quickblend window
+-Blend result window now shows table instead of text
+-Blend result "copy to clipboard" function now copys excel cell data. It is pasteable in excel.
+-Blend result window updates with changes instead of opening a new window
+-Quickblend overwrites blend changes without asking user
+-Quickblend no longer shows the loading beaker
+-Quickblend database must now be in .cvs format
+-Program automatically saves and loads state instead of asking the user
+-Option to copy blend results as image
+
+---11/7/17---
+-New and improved built-in database editor
+	-typing in a cell automatically erases previous info
+	-ability to sort columns in descending and ascending order

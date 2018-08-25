@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<blends>
+    <blends>
+        <entry>
+            <key>test</key>
+            <value percType="1">
+                <entry>
+                    <comp name="Americas Core 100">
+                        <kv100>4.1</kv100>
+                        <kv40>20.4</kv40>
+                        <specificGravity>0.8654</specificGravity>
+                        <vc>1.02</vc>
+                        <vm100>1.0</vm100>
+                        <vm40>1.0</vm40>
+                    </comp>
+                    <weightP>0.2</weightP>
+                    <volumeP>0.0</volumeP>
+                </entry>
+                <entry>
+                    <comp name="SpectraSyn PAO 100">
+                        <kv100>100.0</kv100>
+                        <kv40>1240.0</kv40>
+                        <specificGravity>0.853</specificGravity>
+                        <vc>1.02</vc>
+                        <vm100>1.0</vm100>
+                        <vm40>1.0</vm40>
+                    </comp>
+                    <weightP>0.8</weightP>
+                    <volumeP>0.0</volumeP>
+                </entry>
+            </value>
+        </entry>
+    </blends>
+</blends>
